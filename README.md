@@ -1,4 +1,4 @@
 # demo-student
 thisis my first repository
 <br>
-Author-Anurag Chauhan
+Author-Anurag (student)
