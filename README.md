@@ -1,4 +1,3 @@
-# demo-student
-thisis my first repository
+# Amazone Clone
 <br>
-Author-Anurag (student)
+Author-Anurag Chauhan
